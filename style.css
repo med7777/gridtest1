@@ -2,11 +2,6 @@ body {
 background: url(12_col.gif) center top repeat-y;
 background-size: 90%;
 }
-/*- Breda desktopskärmar: större än 1200px
-- Mindre desktopskärmar: mellan 1200px och 960px
-- Tablets såsom Ipad: mellan 960px och 768px
-- Mobiltelefoner: mindre än 768px
-*/
 /*1200*/
 #grid {
 display: grid;
